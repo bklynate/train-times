@@ -1,2 +1,2 @@
 # trainScheduler
-Week 7 Homework Assignment.
+Playing around with moment.js to format time for potential app usage.
